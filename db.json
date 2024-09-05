@@ -1,0 +1,29 @@
+{
+  "doctorlist": [
+    {
+      "id": 1,
+      "name": "Doctor 1",
+      "profilePic": "https://img.freepik.com/free-vector/doctor-character-background_1270-84.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Doctor 2",
+      "profilePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS89b9s_qUdB0KivEWWjXiNXQY3fE47S6oFMzPNBb_18DnMdsxJ7dHdw7ppI4ke6BlNuXo&usqp=CAU"
+    }
+  ],
+  "appointments": [
+    {
+      "doctorId": "1",
+      "selectedDate": "2024-09-05T19:42:32.537Z",
+      "startTime": "01:00 PM",
+      "endTime": "02:00 PM",
+      "details": {
+        "firstName": "Shawon",
+        "lastName": "Biswas",
+        "email": "shawon7449@gmail.com",
+        "phone": "09123665757"
+      },
+      "id": 1
+    }
+  ]
+}

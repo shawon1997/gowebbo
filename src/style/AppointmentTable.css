@@ -1,0 +1,13 @@
+.dynamic-table-container {
+    padding: 20px;
+  }
+  
+  .dynamic-table-container .table {
+    margin-top: 20px;
+  }
+  
+  .dynamic-table-container th, .dynamic-table-container td {
+    text-align: left;
+    vertical-align: middle;
+  }
+  
